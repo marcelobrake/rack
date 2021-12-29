@@ -7,9 +7,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/rackspace/rack/internal/github.com/codegangsta/cli"
-	"github.com/rackspace/rack/internal/gopkg.in/ini.v1"
-	"github.com/rackspace/rack/util"
+	"github.com/marcelobrake/rack/internal/github.com/codegangsta/cli"
+	"github.com/marcelobrake/rack/internal/gopkg.in/ini.v1"
+	"github.com/marcelobrake/rack/util"
 )
 
 func configure(c *cli.Context) {
